@@ -13,3 +13,4 @@ A library management system is software that is designed to manage all the funct
 => Create an easy to understand user friendly environment
 
 => Attractive user interfaces to navigate through the system for the users.
+
